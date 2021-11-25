@@ -37,6 +37,10 @@ p {
 	max-width: 500px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .wrapper {
 	margin: 5em auto;
 	width: 85%;
